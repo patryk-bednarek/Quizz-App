@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Quiz app</string>
+    <string name="true_button_text">True</string>
+    <string name="fasle_button_text">False</string>
+    <string name="prev_button_text">Prev</string>
+    <string name="next_button_text">Next</string>
+    <string name="placeholder">Questions goes here</string>
+    <string name="image_description">Android icon image</string>
+
+
+    <string name="question1">Is an Earth flat?</string>
+    <string name="correct_answer">That`s correct</string>
+    <string name="wrong_answer">That`s incorrect</string>
+    <string name="question2">Am i 22 years old?</string>
+    <string name="question3">Is BMW German brand?</string>
+    <string name="question4">Jeff Bezos is a SpaceX CEO.</string>
+    <string name="question5">Manchester United is an English football club.</string>
+    <string name="question6">The biggest city in Poland is Warsaw.</string>
+
+
+</resources>
